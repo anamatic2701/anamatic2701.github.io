@@ -46,11 +46,11 @@
 41) **Matić, A.**, Kologranić Belić, L., Kuvač Kraljević, J. (2015). Grupna jezična terapija. In: Kuvač Kraljević, J. (Ed.), Priručnik za prepoznavanje i obrazovanje djece s jezičnim teškoćama [Handbook for the recognition and education of children with language disorders]. Zagreb: Faculty of Education and Rehabilitation Sciences, 100-112.    
 
 ### Papers in press or under review
-42) **Matić Škorić, A.**, Pavlinušić Vilus, E., Cergol, K., Palmović, M. (in review). Eye-tracking in language research. International Encyclopedia of Language and Linguistics, Third Edition.  
-43) Lice, K., **Matić Škorić, A.**, Kuvač Kraljević, J. (in press). Word processing abilities of persons after stroke and traumatic brain injury. Acta Clinica Croatica.  
-44) **Matić Škorić, A.**, Kelić, M., Pavlinušić Vilus, E., Palmović, M. (accepted). The interplay between acoustics, phonology and morphology in the processing of morphologically complex words: evidence from Croatian. Italian Journal of Linguistics.  
-45) Klešković, N., **Matić Škorić, A.**, Cepanec, M. (in review). Developmental trends in immediate echolalia in neurotypical children as reference points for the clinical assessment of stereotyped language. Journal Communication Disorders.  
-46) Ferk-Dornstauder. M., Kouba Hreich, E., Stankova, M., Abou Melhem, N., Boyadzhieva-Deleva, E., Plez  L., **Matić Škorić, A.**, & Thordardottir, E. (in review). Dialogic book reading intervention across different languages and cultural settings: development and piloting of an international study protocol. Child Language Teaching and Therapy.  
+42) **Matić Škorić, A.**, Pavlinušić Vilus, E., Cergol, K., Palmović, M. (in review). Eye-tracking in language research. International Encyclopedia of Language and Linguistics, Third Edition.
+43) Lice, K., **Matić Škorić, A.**, Kuvač Kraljević, J. (in press). Word processing abilities of persons after stroke and traumatic brain injury. Acta Clinica Croatica.
+44) **Matić Škorić, A.**, Kelić, M., Pavlinušić Vilus, E., Palmović, M. (accepted). The interplay between acoustics, phonology and morphology in the processing of morphologically complex words: evidence from Croatian. Italian Journal of Linguistics.
+45) Klešković, N., **Matić Škorić, A.**, Cepanec, M. (in review). Developmental trends in immediate echolalia in neurotypical children as reference points for the clinical assessment of stereotyped language. Journal Communication Disorders.
+46) Ferk-Dornstauder. M., Kouba Hreich, E., Stankova, M., Abou Melhem, N., Boyadzhieva-Deleva, E., Plez  L., **Matić Škorić, A.**, & Thordardottir, E. (in review). Dialogic book reading intervention across different languages and cultural settings: development and piloting of an international study protocol. Child Language Teaching and Therapy. 
 47) Thordardottir, E., **Matić Škorić, A.**, Dornstauder, M., Ferman, S., Marini, A., Nieva, S., Roch, M., Stankova, M., Vasileva, V., Zajdo, K., Plez, L. (in review). Dialogic Book Reading vocabulary intervention across six countries and languages: an international feasibility study: Measured efficacy and clinician and parent satisfaction. International Journal of Language & Communication Disorders.
 
 ### Qualification papers (PhD and Master's Thesis)
