@@ -13,6 +13,7 @@
 
 ### Grants
 
+- Language, Concepts, and Cognition Across the Lifespan, research collaborator, 2024-ongoing (PI: Jamie Reilly)
 - Jezično nasljeđe gradišćanskih Hrvata (JENGRAH), research collaborator, 2024-ongoing (PI: Ivan Marko Gligorić)
 - ISCH COST Action CA21131 - Enabling multilingual eye-tracking data collection for human and machine language processing research (MultiplEYE), Vice-Chair, Grant Awarding Coordinator, 2022-ongoing (PI: Lena Jaeger)
 - IPCH-2022-04-3316 - Measurement reliability of individual differences in sentence processing: A cross-linguistic perspective (MeRID), Swiss National Science Foundation (SNSS), collaborator, 2023-ongoing	(PI: Lena Jaeger; Marijan Palmović)
