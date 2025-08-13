@@ -51,7 +51,7 @@
 
 ### Papers in press or under review
 46) **Matić Škorić, A.**, Kelić, M., Pavlinušić Vilus, E., Palmović, M. (in press). The interplay between acoustics, phonology and morphology in the processing of morphologically complex words: evidence from Croatian. Italian Journal of Linguistics.
-47) Ferk-Dornstauder. M., Kouba Hreich, E., Stankova, M., Abou Melhem, N., Boyadzhieva-Deleva, E., Plez  L., **Matić Škorić, A.**, & Thordardottir, E. (in review). Dialogic book reading intervention across different languages and cultural settings: development and piloting of an international study protocol. Child Language Teaching and Therapy. 
+47) Ferk-Dornstauder. M., Kouba Hreich, E., Stankova, M., Abou Melhem, N., Boyadzhieva-Deleva, E., Plez  L., **Matić Škorić, A.**, & Thordardottir, E. (in review). Dialogic book reading intervention across different languages and cultural settings: development and piloting of an international study protocol. Child Language Teaching and Therapy.
 48) Thordardottir, E., **Matić Škorić, A.**, Dornstauder, M., Ferman, S., Marini, A., Nieva, S., Roch, M., Stankova, M., Vasileva, V., Zajdo, K., Plez, L. (in review). Dialogic Book Reading vocabulary intervention across six countries and languages: an international feasibility study: Measured efficacy and clinician and parent satisfaction. International Journal of Language & Communication Disorders.
 
 ### Qualification papers (PhD and Master's Thesis)
