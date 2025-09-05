@@ -5,7 +5,7 @@
 
 ## Basic information
 - Croatian
-- a wife, a sister, a daughter, an aunt, a friend and an assistant professor
+- assistant professor
 - enjoys research, music, books, cycling, yoga, travel
 
 ## Current roles
