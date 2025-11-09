@@ -13,6 +13,8 @@
 
 ### Grants
 
+- Psycholinguistic Results of Linguistic Change and Variation in the Balkan Linguistic Zone in Contact with Francophone Countries (BALKANLING), collaborator and consultant, 2024-ongoing
+- Acquired Neurogenic Language Impairments in a Multilingual World (ALI-Multi), collaborator, 2024-ongoing (PI: Seckin Arslan)
 - Language, Concepts, and Cognition Across the Lifespan, research collaborator, 2024-ongoing (PI: Jamie Reilly)
 - Jezično nasljeđe gradišćanskih Hrvata (JENGRAH), research collaborator, 2024-ongoing (PI: Ivan Marko Gligorić)
 - ISCH COST Action CA21131 - Enabling multilingual eye-tracking data collection for human and machine language processing research (MultiplEYE), Vice-Chair, Grant Awarding Coordinator, 2022-ongoing (PI: Lena Jaeger)
