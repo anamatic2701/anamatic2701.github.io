@@ -53,7 +53,8 @@
 
 ### Papers in press or under review
 48) **Matić Škorić, A.**, Kelić, M., Pavlinušić Vilus, E., Palmović, M. (in press). The interplay between acoustics, phonology and morphology in the processing of morphologically complex words: evidence from Croatian. Italian Journal of Linguistics.
-49) Thordardottir, E., **Matić Škorić, A.**, Dornstauder, M., Ferman, S., Marini, A., Nieva, S., Roch, M., Stankova, M., Vasileva, V., Zajdo, K., Plez, L. (in review). Dialogic Book Reading vocabulary intervention across six countries and languages: an international feasibility study: Measured efficacy and clinician and parent satisfaction. International Journal of Language & Communication Disorders.
+49) Papadopoulos, T., Fella, A., Acartürk, C., ..., Palmović, M., Luegi, P., **Matić Škorić, A.**, Türkan, B. N., Yildirim, F., Barkana, D. E. (in press). Eye-TrackinginReadingResearch: A Systematic Review of Studies With Children of Varying Reading Ability. European Psychologist.
+50) Thordardottir, E., **Matić, A.**, Plez, L., Ferman, S., Zajdo, K., Ferk-Dornstauder, M., Marini, A., Nieva, S., Roch, M., Stankova, M., Vasileva, V. (in review). Dialogic Book Reading vocabulary intervention for children with DLD across six countries and languages: a study of its effectiveness and acceptance by clinicians and parents. Child Language Teaching and Therapy.
 
 ### Qualification papers (PhD and Master's Thesis)
 1)	**Matić, A.** (2020). Psiholingvistički pristup strukturno-značenjskim čimbenicima u obradi odnosnih rečenica. [Psycholinguistic approach to structural-semantic factors in processing relative clauses]. Doctoral thesis. University of Zagreb: Faculty of Humanities and Social Sciences. https://doi.org/10.17234/diss.2020.8937  
