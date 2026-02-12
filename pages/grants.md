@@ -13,6 +13,8 @@
 
 ### Grants
 
+- Sámi Aphasia and Morphology Initiative – Comprehensive Aphasia Testing (SAMI-CAT), collaborator, 2026-ongoing (PI: Monica I. Norvik)
+- The interface of morphology and phonology in language development and processing in speakers of typical and atypical language status (MORFON), PI, 2025-ongoing 
 - Psycholinguistic Results of Linguistic Change and Variation in the Balkan Linguistic Zone in Contact with Francophone Countries (BALKANLING), collaborator and consultant, 2024-ongoing
 - Acquired Neurogenic Language Impairments in a Multilingual World (ALI-Multi), collaborator, 2024-ongoing (PI: Seckin Arslan)
 - Language, Concepts, and Cognition Across the Lifespan, research collaborator, 2024-ongoing (PI: Jamie Reilly)
@@ -28,4 +30,3 @@
 - ISCH COST Action IS1406 – Enhancing children's oral language skills across Europe and beyond - a collaboration focusing on interventions for children with difficulties learning their first language, ESR, collaborator, 2016-2019. (PI: James Law)
 - Adult Language Processing (HRZZ-2421), research assistant, 2016-2017. (PI: Jelena Kuvač Kraljević)
 - Prerequisites for academic equality: early recognition of language disorders (IPA), assistant, 2014-2015. (PI: Jelena Kuvač Kraljević)
-- Secondary proposer of a COST Project Transdiagnostic understanding of neurodevelopmental disorders through research and assessment (PI: Joel B. Talcott) (in review)
