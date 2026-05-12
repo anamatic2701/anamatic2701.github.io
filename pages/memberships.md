@@ -8,6 +8,7 @@
 - Societas Linguistica Europaea (SLE): 2019-
 
 ### National
+- Co-president of the Croatian Fulbrighters: 2026-
 - Croatian Fulbrighters: 2025-
 - Head of the Association for early language development (Croatia): 2021-
 - Lead of Zagreb Linguistic Circle (Croatia): 2019-2020
