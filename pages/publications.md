@@ -1,7 +1,7 @@
 ## Publications
 
 ### Peer reviewed journal articles
-1) **Matić, A.,** Kelić, M., Pavlinušić Vilus, E., & Palmović, M. (2026). The role of consonant cluster features in sublexical and lexical processing of morphologically complex words. Italian Journal of Linguistics, 38(1), 143-180. 10.26346/2499-8125-236  
+1) **Matić, A.,** Kelić, M., Pavlinušić Vilus, E., & Palmović, M. (2026). The role of consonant cluster features in sublexical and lexical processing of morphologically complex words. Italian Journal of Linguistics, 38(1), 143-180. 10.26346/2499-8125-236   
 2)	Došen, A., & **Matić, A.** (2026). The relationship between executive functions and language abilities in people with post-stroke aphasia: A systematic review of recent findings. International Journal of Speech-Language Pathology, 1-25. https://doi.org/10.1080/17549507.2026.2694575 
 3)	Cergol, K., Pavlinušić Vilus, E., **Matić, A.**, & Palmović, M. (2026). Expecting the unexpected: Eye-tracking surprisal and entropy in L1 and L2. In Proceedings of the 2026 Symposium on Eye Tracking Research and Applications (pp. 1-6). https://doi.org/10.1145/3797246.3805479 
 4)	Kasperė, R., Bondar, A., Nisioi, S., Stegenwallner-Schütz, M., Knudsen, H. B. S., **Matić, A.**, ... & Bakhtiari, S. (2026). The MultiplEYE text corpus: Towards a diverse and ever-expanding multilingual text corpus. In Proceedings of the Fifteenth Language Resources and Evaluation Conference (pp. 6706-6721). https://aclanthology.org/2026.lrec-1.534/ 
